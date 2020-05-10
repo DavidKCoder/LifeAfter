@@ -1,0 +1,12 @@
+.body {
+  height: 450px;
+  background-color: #141312;
+  margin-left: 15%;
+}
+
+.poster {
+  height: 399px;
+  background-image: url("/poster.jpg");
+  background-position: center;
+  background-size: cover;
+}

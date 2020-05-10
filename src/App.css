@@ -1,0 +1,15 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  background-color: cadetblue;
+  background-image: url("/LIFEAFTER.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.App .container {
+  width: 75%;
+  padding-top: 80px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
